@@ -18,9 +18,11 @@ To install the necessary dependencies you need to open your cmd and type:
 
 pip install discord.py[voice]
 pip install youtube_dl
+
 To bring the bot online, open 'config.json' file and in the code location where it says:
 
 "token":"TOKEN HERE"
+
 you replace the TOKEN HERE with your bot's token.
 
 Commands:
