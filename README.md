@@ -5,7 +5,7 @@ Music bot for discord with everything working 09/16/21
 
 You can use these files to make a music bot for your Discord server
 
-![image](https://user-images.githubusercontent.com/94849239/143438942-04c15ada-79f6-4cc3-b8c0-165d28a2b0cb.png
+![image](https://user-images.githubusercontent.com/94849239/143439698-da469fe4-32ce-4133-926f-d69d37c2b860.png)
 
 How to configure:
 Requirements:
